@@ -1,6 +1,6 @@
 # Real-Time-Bus-Tracker
 ## Description
-Follow the trajectory of the bus that runs along Massachusetts Avenue, from MIT to Harvard Hall!
+Follow the trajectory of the bus that runs along Massachusetts Avenue, from MIT to Harvard Hall !
 
 ## How to run
 You just need to download all these files from the repo, and put them together on a single folder:
