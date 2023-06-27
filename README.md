@@ -3,12 +3,24 @@
 Follow the trajectory of the bus that runs along Massachusetts Avenue, from MIT to Harvard Hall !
 
 ## How to run
-You just need to download all these files from the repo, and put them together on a single folder:
+
+### You need to clone the repo, so all these files will be downloaded on a single folder "Real-Time-Bus-Tracker":
+$ git clone https://github.com/davidsilvabravo/Real-Time-Bus-Tracker
 - index.html
 - mapanimation.js
 - styles.css
 
-Then, just open index.html on your browser and click on the button that says "Show stops between MIT and Harvard".
+### Then, go to the Real-Time-Bus-Tracker folder:
+$ cd Real-Time-Bus-Tracker
+
+### Install dependencies:
+$ yarn
+
+### Run the project:
+$ yarn start
+The server will initialize in the <http://localhost:3000>
+
+### Then, just open index.html on your browser and click on the button that says "Show stops between MIT and Harvard".
 
 ## Roadmap of future improvements
 No new additional improvements planned yet.
